@@ -2,7 +2,7 @@
 
 ## Immediate Priority (Critical)
 
-- [ ] Create `.gitignore` file and remove `.DS_Store` files from repository
+- [x] Create `.gitignore` file and remove `.DS_Store` files from repository
 - [ ] Fix license inconsistency in `setup.py` (change MIT to GPLv2)
 - [ ] Set up basic pytest infrastructure in `tests/` directory
 - [ ] Write unit tests for core `Transliterator` class
