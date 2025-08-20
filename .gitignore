@@ -2,6 +2,7 @@ _priv/
 .idea/
 .dccache
 *.code-workspace
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
